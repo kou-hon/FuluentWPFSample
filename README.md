@@ -1,0 +1,2 @@
+# FuluentWPFSample
+WPFのFuluentStyleの確認用
